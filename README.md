@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Belkiss Lino. 👩🏻</h1>
 
-<p align="center"> 💻 Estou estudando atualmente Javascript e Java. </p>
+<p align="center"> 💻 Estou estudando atualmente ReactJs. </p>
 
 <div align="center">
   <a href="https://github.com/belkiss-lino">
